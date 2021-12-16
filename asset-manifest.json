@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/MyFirstReact-1-/static/css/main.a617e044.chunk.css",
-    "main.js": "/MyFirstReact-1-/static/js/main.3b2efcca.chunk.js",
-    "main.js.map": "/MyFirstReact-1-/static/js/main.3b2efcca.chunk.js.map",
-    "runtime-main.js": "/MyFirstReact-1-/static/js/runtime-main.391f700a.js",
-    "runtime-main.js.map": "/MyFirstReact-1-/static/js/runtime-main.391f700a.js.map",
-    "static/js/2.79fe45d8.chunk.js": "/MyFirstReact-1-/static/js/2.79fe45d8.chunk.js",
-    "static/js/2.79fe45d8.chunk.js.map": "/MyFirstReact-1-/static/js/2.79fe45d8.chunk.js.map",
-    "static/js/3.e5207a84.chunk.js": "/MyFirstReact-1-/static/js/3.e5207a84.chunk.js",
-    "static/js/3.e5207a84.chunk.js.map": "/MyFirstReact-1-/static/js/3.e5207a84.chunk.js.map",
+    "main.css": "/MyFirstReact-1-/static/css/main.ea755d91.chunk.css",
+    "main.js": "/MyFirstReact-1-/static/js/main.4d966081.chunk.js",
+    "main.js.map": "/MyFirstReact-1-/static/js/main.4d966081.chunk.js.map",
+    "runtime-main.js": "/MyFirstReact-1-/static/js/runtime-main.2e0e3dfd.js",
+    "runtime-main.js.map": "/MyFirstReact-1-/static/js/runtime-main.2e0e3dfd.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/MyFirstReact-1-/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.74317e5c.chunk.js": "/MyFirstReact-1-/static/js/2.74317e5c.chunk.js",
+    "static/js/2.74317e5c.chunk.js.map": "/MyFirstReact-1-/static/js/2.74317e5c.chunk.js.map",
+    "static/js/3.511a23cd.chunk.js": "/MyFirstReact-1-/static/js/3.511a23cd.chunk.js",
+    "static/js/3.511a23cd.chunk.js.map": "/MyFirstReact-1-/static/js/3.511a23cd.chunk.js.map",
     "index.html": "/MyFirstReact-1-/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/MyFirstReact-1-/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.79fe45d8.chunk.js.LICENSE.txt": "/MyFirstReact-1-/static/js/2.79fe45d8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/MyFirstReact-1-/static/media/logo.6ce24c58.svg"
+    "static/css/2.d8cb5cde.chunk.css.map": "/MyFirstReact-1-/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.ea755d91.chunk.css.map": "/MyFirstReact-1-/static/css/main.ea755d91.chunk.css.map",
+    "static/js/2.74317e5c.chunk.js.LICENSE.txt": "/MyFirstReact-1-/static/js/2.74317e5c.chunk.js.LICENSE.txt",
+    "static/media/Abutton.b0b20384.png": "/MyFirstReact-1-/static/media/Abutton.b0b20384.png",
+    "static/media/App.css": "/MyFirstReact-1-/static/media/Arcane.02a50c83.jpg",
+    "static/media/zdrive1.0db289fd.png": "/MyFirstReact-1-/static/media/zdrive1.0db289fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.391f700a.js",
-    "static/js/2.79fe45d8.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.3b2efcca.chunk.js"
+    "static/js/runtime-main.2e0e3dfd.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.74317e5c.chunk.js",
+    "static/css/main.ea755d91.chunk.css",
+    "static/js/main.4d966081.chunk.js"
   ]
 }
