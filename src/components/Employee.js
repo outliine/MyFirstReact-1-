@@ -63,7 +63,7 @@ const Employee = () => {
                                     <td>{employee.location}</td>
                                     <td> 
                                         <div className="d-grid gap-4 d-md-flex">
-                                            <Link className="btn btn-primary" to ={`/edit/${employee.employeeId}`}>Update</Link>
+                                            <Link className="btn btn-primary" to ={`/MyFirstReact-1-/edit/${employee.employeeId}`}>Update</Link>
                                             <button className="btn btn-danger" onClick={(e)=>deleteEmployee(employee.employeeId)}>Delete</button>
                                         </div>
                                     </td>

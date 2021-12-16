@@ -37,7 +37,7 @@ const AddEmployee = () =>{
             EmployeeService.putEmployee(employee)//promise
             .then(response =>{
                 console.log("Champion updated!")
-                navigate("/employees");
+                navigate("/MyFirstReact-1-/employees");
             })
             .catch(error =>{
                 console.log("Ooooooo it went wrong!",error)
@@ -48,7 +48,7 @@ const AddEmployee = () =>{
             EmployeeService.postEmployee(employee)//promise
             .then(response =>{
                 console.log("Champion added!")
-                navigate("/employees");
+                navigate("/MyFirstReact-1-/employees");
             })
             .catch(error =>{
                 console.log("Ooooooo it went wrong!",error)
