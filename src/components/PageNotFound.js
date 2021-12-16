@@ -2,7 +2,7 @@ const PageNotFound = () =>{
     return(
         <div>
             <h1>Page Not Found!</h1>
-            <p>Parang siya di mo na makita</p>
+            <p>Quit programming na lods</p>
         </div>
     )
 } 
